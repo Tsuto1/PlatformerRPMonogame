@@ -1,0 +1,141 @@
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\0_empty.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\1_grass.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player1_left_fall.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player1_left_rise.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player1_right_fall.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player1_right_rise.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player2_left_fall.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player2_left_rise.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player2_right_fall.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player2_right_rise.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player3_left_fall.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player3_left_rise.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player3_right_fall.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player3_right_rise.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player4_left_fall.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player4_left_rise.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player4_right_fall.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player4_right_rise.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\PlatformerRoleplayC.exe
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\PlatformerRoleplayC.pdb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\obj\x86\Debug\PlatformerRoleplayC.exe
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\obj\x86\Debug\PlatformerRoleplayC.pdb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\obj\x86\Debug\PlatformerRoleplayC.csprojResolveAssemblyReference.cache
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\2_ladder.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\3_gray_bricks.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\4_teleporter.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Sprites\0_bullet.xnb
+C:\Users\darkd\OneDrive\Documents\Visual Studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\5_shooting_target.xnb
+C:\Users\darkd\onedrive\documents\visual studio 2015\Projects\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\SFont.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\obj\x86\Debug\PlatformerRoleplayC.csprojAssemblyReference.cache
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\obj\x86\Debug\PlatformerRoleplayC.csproj.CoreCompileInputs.cache
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\obj\x86\Debug\PlatformerRoleplayC.exe
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\obj\x86\Debug\PlatformerRoleplayC.pdb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player1_left_fall.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player1_left_rise.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player1_right_fall.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player1_right_rise.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player2_left_fall.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player2_left_rise.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player2_right_fall.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player2_right_rise.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player3_left_fall.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player3_left_rise.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player3_right_fall.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player3_right_rise.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player4_left_fall.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player4_left_rise.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player4_right_fall.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player4_right_rise.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Sprites\0_bullet.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\0_empty.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\1_grass.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\2_ladder.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\3_gray_bricks.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\4_teleporter.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\5_shooting_target.xnb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\PlatformerRoleplayC.exe
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\PlatformerRoleplayC.pdb
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Hussain\Desktop\PlatformerRoleplayC\PlatformerRoleplayC\obj\x86\Debug\PlatformerRoleplayC.csproj.CopyComplete
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player1_left_fall.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player1_left_rise.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player1_right_fall.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player1_right_rise.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player2_left_fall.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player2_left_rise.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player2_right_fall.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player2_right_rise.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player3_left_fall.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player3_left_rise.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player3_right_fall.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player3_right_rise.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player4_left_fall.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player4_left_rise.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player4_right_fall.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Players\player4_right_rise.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Sprites\0_bullet.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\0_empty.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\1_grass.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\2_ladder.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\3_gray_bricks.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\4_teleporter.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\Content\Blocks\5_shooting_target.xnb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\PlatformerRoleplayC.exe
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\PlatformerRoleplayC.pdb
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.dll
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.xml
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\obj\x86\Debug\PlatformerRoleplayC.csprojAssemblyReference.cache
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\obj\x86\Debug\PlatformerRoleplayC.csproj.CoreCompileInputs.cache
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\obj\x86\Debug\PlatformerRoleplayC.csproj.CopyComplete
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\obj\x86\Debug\PlatformerRoleplayC.exe
+C:\D\Files\Programming\Self contained\Platformer\PlatformerRoleplayC\PlatformerRoleplayC\obj\x86\Debug\PlatformerRoleplayC.pdb
